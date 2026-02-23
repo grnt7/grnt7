@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cursor**
 
-- 👨‍💻 All of my projects are available at [www.davidagrant.co.uk](www.davidagrant.co.uk)
+- 👨‍💻 All of my projects are available at(https://davidagrant.co.uk/)
 
 - 💬 Ask me about **React, React Native**
 
