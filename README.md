@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DavidG</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🔭 I’m currently working on **Jobly-Job-App**
+- 🔭 I’m currently working on an **Indeed-Clone-App** using Vibe Coding
 
 - 🌱 I’m currently learning **Cursor**
 
