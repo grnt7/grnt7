@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [David G] 👋
 
-**[Your Role]**  
-Building [what you build] with a focus on [your focus].
+**[Frontend developer]**  
+Building [React Nextjs] with a focus on [clean minimal asthetics].
 
 ---
 
