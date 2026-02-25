@@ -1,7 +1,7 @@
 # Hi, I'm [David G] 👋
 
 **[Frontend developer]**  
-Building [React Nextjs] with a focus on [clean minimal asthetics].
+Building React Nextjs with a focus on clean minimal asthetics.
 
 ---
 
@@ -11,8 +11,8 @@ I'm a [short 1–2 sentence professional summary about you].
 
 - 🌱 Currently learning: **[Technology]**
 - 🎯 Focused on: **[Your focus area]**
-- 💡 Interested in: **[AI / Systems / Startups / etc.]**
-- 📍 Based in: **[Location]**
+- 💡 Interested in: **AI Assisted/Vibe Coding / Systems / Startups **
+- 📍 Based in: **London**
 
 ---
 
