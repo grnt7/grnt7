@@ -42,8 +42,7 @@ Short description explaining the problem it solves.
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true&theme=transparent&hide_border=true" alt="grnt7's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact&theme=transparent&hide_border=true" alt="grnt7's Top Languages" width="300" />
+  <img src="https://github-card.vercel.app/api?username=grnt7&theme=modern&show_icons=true" alt="grnt7's Stats" width="400" />
 </p>
 ---
 
