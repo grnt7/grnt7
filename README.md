@@ -38,11 +38,12 @@ Short description explaining the problem it solves.
 
 ---
 
+
 ## GitHub
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?grnt7&show_icons=true&hide_border=true&title_color=555&icon_color=555&text_color=777&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=555&text_color=777&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true&hide_border=true&title_color=555&icon_color=555&text_color=777&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact&hide_border=true&title_color=555&text_color=777&bg_color=00000000" />
 </p>
 
 ---
