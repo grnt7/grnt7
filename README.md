@@ -50,7 +50,7 @@ Short description explaining the problem it solves.
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/dagrant/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
   <a href="https://twitter.com/your-link">
