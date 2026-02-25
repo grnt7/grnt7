@@ -41,10 +41,9 @@ Short description explaining the problem it solves.
 
 ## GitHub
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact)
 
 ---
 
