@@ -30,11 +30,11 @@ Meta-certified Full-Stack Developer leveraging a background in complex problem-s
 
 ### Property SAAS
 Short description explaining what it does and why it matters.  
-`Tech 1` · `Tech 2` · `Tech 3`
+`Cursor` · `Sanity` · `Clerk billing` · `Mapbox`
 
 ### Indeed_Clone "Jobly-Job-App"
 Short description explaining the problem it solves.  
-`Tech 1` · `Tech 2` · `Tech 3`
+`Next.js16` · `Convex` · `Clerk`· `Tailwind CSS`
 
 ---
 
