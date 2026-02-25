@@ -1,6 +1,6 @@
 # Hi, I'm [David G] 👋
 
-Digital Craftsman
+Digital Creator
 
 **Frontend developer**  
 Building React Nextjs with a focus on clean minimal asthetics.
