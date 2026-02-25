@@ -39,12 +39,12 @@ Short description explaining the problem it solves.
 ---
 
 
-## GitHub
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true&theme=transparent&hide_border=true" alt="grnt7's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnt7&layout=compact&theme=transparent&hide_border=true" alt="grnt7's Top Languages" width="300" />
+</p>
 ---
 
 ## Connect
