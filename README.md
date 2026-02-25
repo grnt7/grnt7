@@ -42,7 +42,7 @@ Short description explaining the problem it solves.
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-card.vercel.app/api?username=grnt7&theme=modern&show_icons=true" alt="grnt7's Stats" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=grnt7&theme=transparent&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 ---
 
