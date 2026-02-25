@@ -41,7 +41,9 @@ Short description explaining the problem it solves.
 ---
 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats and Dev Activity
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=grnt7&show_icons=true&theme=radical)
 
 
 ---
