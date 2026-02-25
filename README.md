@@ -21,7 +21,7 @@ Meta-certified Full-Stack Developer leveraging a background in complex problem-s
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,postgres,docker,git" />
 </p>
 
 <!-- Replace icons above at https://skillicons.dev -->
