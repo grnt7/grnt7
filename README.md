@@ -41,7 +41,9 @@ Short description explaining the problem it solves.
 
 ## 📊 GitHub Analytics
 
-
+<p align="left">
+  <img src="https://metrics.lecoq.io/grnt7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&languages.details=lines,percentage" alt="grnt7's Metrics" width="100%" />
+</p>
 ---
 
 ## Connect
