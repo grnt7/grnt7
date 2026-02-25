@@ -28,11 +28,11 @@ I'm a [short 1–2 sentence professional summary about you].
 
 ## Selected Work
 
-### [Project Name]
+### Property SAAS
 Short description explaining what it does and why it matters.  
 `Tech 1` · `Tech 2` · `Tech 3`
 
-### [Project Name]
+### Indeed_Clone "Jobly-Job-App"
 Short description explaining the problem it solves.  
 `Tech 1` · `Tech 2` · `Tech 3`
 
@@ -63,4 +63,4 @@ Short description explaining the problem it solves.
 
 ---
 
-<sub>“[Short, clean personal motto.]”</sub>
+<sub>“Building systems that scale, code that communicates, and solutions that last.”</sub>
