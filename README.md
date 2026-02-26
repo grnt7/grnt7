@@ -9,7 +9,7 @@ Building React Nextjs with a focus on clean minimal asthetics.
 
 ## About
 
-Meta-certified Full-Stack Developer leveraging a background in complex problem-solving and management to build secure, scalable applications with React, TypeScript, and Supabase. I specialize in integrating AI-driven workflows and modern backends to create high-impact, production-ready software...
+Meta-certified Frontend Developer leveraging a background in complex problem-solving and management to build secure, scalable applications with React, TypeScript, and Supabase. I specialize in integrating AI-driven workflows and modern backends to create high-impact, production-ready software...
 
 - 🌱 Currently learning: **Building a suite of AI-integrated mobile and web application**
 - 🎯 Focused on: **Ai Development using Cursor**
