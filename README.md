@@ -1,4 +1,4 @@
-# Hi, I'm [David G] 👋
+# Hi, I'm David G 👋
 
 Digital Creator
 
