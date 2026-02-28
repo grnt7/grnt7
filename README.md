@@ -31,7 +31,7 @@ Meta-certified Frontend Developer leveraging a background in complex problem-sol
 ## Selected Work
 
 ### Property SAAS
-Short description explaining what sleek real estate platform where homebuyers can browse listings, save favorites, and contact agents, while real estate professionals can manage their portfolio through a dedicated dashboard. does and why it matters.  
+Sleek real estate platform where homebuyers can browse listings, save favorites, and contact agents, while real estate professionals can manage their portfolio through a dedicated dashboard. does and why it matters.  
 `Cursor` · `Sanity` · `Clerk billing` · `Mapbox`
 
 ### Indeed_Clone "Jobly-Job-App"
