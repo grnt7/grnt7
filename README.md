@@ -2,7 +2,7 @@
 
 Digital Creator
 
-**Frontend developer**  
+**Fullstack developer**  
 Building React Nextjs with a focus on clean minimal asthetics.
 
 ---
