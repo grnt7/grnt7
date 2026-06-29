@@ -11,7 +11,7 @@ Building React Nextjs with a focus on clean minimal asthetics.
 
 Meta-certified Frontend Developer leveraging a 9-year background in retail e-commerce operations and commercial management to build secure, scalable applications with React, TypeScript, Next.js, and modern backend architectures. I specialize in integrating AI-driven workflows and modern backends to create high-impact, production-ready software...
 
-- 🌱 Currently learning: **Building a suite of AI-integrated mobile and web application**
+- 🚀 Currently Shipping: High-performance React Native mobile apps and Next.js web systems powered by AI pipelines and headless data delivery.
 - 🎯 Focused on: **Ai Development using Cursor**
 - 💡 Interested in: **Interested in: AI-Assisted Workflows / Technical Architecture / B2B Products / White-Label Engineering Collaborations**
 - 📍 Based in: **London**
