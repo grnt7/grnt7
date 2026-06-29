@@ -13,7 +13,7 @@ Meta-certified Frontend Developer leveraging a 9-year background in retail e-com
 
 - 🌱 Currently learning: **Building a suite of AI-integrated mobile and web application**
 - 🎯 Focused on: **Ai Development using Cursor**
-- 💡 Interested in: **AI Assisted/Vibe Coding / Systems / Startups **
+- 💡 Interested in: **Interested in: AI-Assisted Workflows / Technical Architecture / B2B Products / White-Label Engineering Collaborations**
 - 📍 Based in: **London**
 
 ---
