@@ -35,7 +35,7 @@ Sleek real estate platform where homebuyers can browse listings, save favorites,
 `Cursor` · `Sanity` · `Clerk billing` · `Mapbox`
 
 ### Indeed_Clone "Jobly-Job-App"
-Short description explaining the problem it solves.  
+A full-stack, real-time job board where job seekers search and apply for roles, and employers post jobs, review candidates, and manage their hiring pipeline — all from one app -Vibe Coded/AI assisted using Cursor IDE  
 `Next.js16` · `Convex` · `Clerk`· `Tailwind CSS`
 
 ---
