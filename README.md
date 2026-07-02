@@ -34,7 +34,7 @@ Meta-certified Frontend Developer leveraging a 9-year background in retail e-com
 Sleek real estate platform where homebuyers can browse listings, save favorites, and contact agents, while real estate professionals can manage their portfolio through a dedicated dashboard.
 `Cursor` · `Sanity` · `Clerk billing` · `Mapbox`
 
-### Indeed_Clone "Jobly-Job-App"
+### Jobly-Job-App SAAS
 A full-stack, real-time job board where job seekers search and apply for roles, and employers post jobs, review candidates, and manage their hiring pipeline — all from one app -Vibe Coded/AI assisted using Cursor IDE  
 `Next.js16` · `Convex` · `Clerk`· `Tailwind CSS`
 
