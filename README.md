@@ -36,7 +36,7 @@ Sleek real estate platform where homebuyers can browse listings, save favorites,
 
 ### Ai_Wardrobe Clothing Store
 Fitcheck: an AI wardrobe and virtual try-on app built with Next.js, Vercel Eve, Clerk and Convex. — all from one app -Vibe Coded/AI assisted using Cursor IDE  
-`Next.js16` · `Convex` · `Clerk`· `Tailwind CSS`
+`Next.js16` · `Convex` · `Clerk`· `Tailwind CSS` · `Open Ai`
 
 ---
 
